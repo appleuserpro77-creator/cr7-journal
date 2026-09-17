@@ -1,15 +1,21 @@
-CR7 JOURNAL V2
-Premium coded static website foundation.
+# CR7 JOURNAL — V3
+Premium responsive editorial website foundation for CR7 JOURNAL.
 
-Files:
-- index.html
-- styles.css
-- script.js
+## Included
+- Full-screen cinematic hero
+- Mobile-safe CR7 JOURNAL wordmark
+- Scroll progress and reveal animations
+- 3D hero depth/parallax
+- Interactive tilt cards
+- Animated record counters
+- Drag-scroll career timeline
+- Moving editorial ticker
+- Gallery lightbox foundation
+- Responsive mobile navigation
+- Reduced-motion accessibility support
 
-V2 adds a stronger editorial system, cinematic hero treatment, depth/parallax, animated counters, horizontal career timeline, gallery interactions, mobile navigation and a bold closing brand panel.
+## Photography
+Image slots are intentionally placeholders. Replace them with authentic/licensed Cristiano Ronaldo photography before publication.
 
-Photography is intentionally represented by placeholders until licensed/authorized Ronaldo images are supplied or selected. Replace placeholders with appropriate image assets and descriptive alt text.
-
-Record values marked with * are design placeholders and must be verified before publishing.
-
-The project is an independent fan/editorial archive and includes a non-affiliation notice.
+## Important
+Verify all changing statistics before publishing. This is an independent fan/editorial project and is not affiliated with Cristiano Ronaldo or any club, league, federation, or governing body.
