@@ -17,7 +17,7 @@ section{padding:135px 7vw}.manifesto{background:#0b0b0b}.manifesto-grid{display:
 /* Mobile wordmark fix: keep the full CR7 JOURNAL title visible on narrow screens. */
 @media (max-width: 700px){
   .hero-content{padding-left:6vw;padding-right:6vw;padding-bottom:9vw}
-  .hero h1{font-size:clamp(48px,16.8vw,78px);letter-spacing:-.075em;line-height:.82;white-space:nowrap;margin-top:22px}
+  .hero h1{font-size:clamp(40px,13vw,72px);letter-spacing:-.075em;line-height:.82;white-space:nowrap;margin-top:22px;max-width:100%;overflow:visible}
   .hero-meta{gap:18px;flex-wrap:wrap}
   .hero-meta span{font-size:8px}
 }
